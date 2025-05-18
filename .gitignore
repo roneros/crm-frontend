@@ -1,5 +1,13 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+dist
+.env
+pnpm-lock.yaml
+.idea
+.vscode
+orval.config.js
+
+
 # dependencies
 /node_modules
 /.pnp

@@ -1,0 +1,4 @@
+echo 22.15.1 > .nvmrc
+
+
+nvm use
